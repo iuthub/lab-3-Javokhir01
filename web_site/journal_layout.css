@@ -1,0 +1,35 @@
+#main
+{
+	background-color: white;
+	border: 10px solid white;
+	margin: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+body
+{
+	background-image: url("images/background.jpg");
+}
+.data
+{
+	border-bottom: #245F5F dashed 2px;
+}
+#header1
+{
+	text-align: right;
+	background: #A8F0F0;
+}
+.paragraph
+{
+	border: solid 4px #C2E9E9;
+	 height: auto;
+	 overflow:auto;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+.paragraph img
+{
+	float: right;
+}
